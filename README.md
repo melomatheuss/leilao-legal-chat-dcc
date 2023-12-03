@@ -11,6 +11,7 @@ Certifique-se de ter o Node.js e npm instalados em sua máquina.
 
     git clone https://github.com/melomatheuss/leilao-legalFV.git
 
+## Na pasta do projeto execute
     npm install
 
 Execução
