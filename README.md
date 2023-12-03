@@ -9,7 +9,7 @@ Este projeto é uma plataforma simples frontend de leilão online desenvolvida c
 Certifique-se de ter o Node.js e npm instalados em sua máquina.
 
 
-git clone https://github.com/seu-usuario/leilao-legal.git
+    git clone https://github.com/melomatheuss/leilao-legalFV.git
 
     npm install
 
